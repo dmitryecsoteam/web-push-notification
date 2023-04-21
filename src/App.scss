@@ -1,0 +1,33 @@
+.App {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+
+  &_container {
+    flex-grow: 1;
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  &_title {
+    display: block;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 10px 0;
+  }
+
+  &_subtitle {
+    display: block;
+    font-size: 14px;
+    margin: 8px 0;
+  }
+
+  &_textarea {
+    margin-bottom: 30px;
+  }
+
+  &_button {
+    align-self: flex-end;
+  }
+}
