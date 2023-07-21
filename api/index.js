@@ -4,8 +4,8 @@ const bodyParser = require('body-parser');
 
 const APPLICATION_KEYS = {
     publicKey:
-        "BHTSFjqcWNaax6KHdrTlViqDvYiXPiGmvo0pROfuwlljxRo8frHEGP2EH0Mrl10SxKqBQt3pDXUGkJiDlriUAn4",
-    privateKey: "i_lhIflfQOLZ8lz0u_SZbiW8oevsz7oyCFA1USg7kUM",
+        "BDHa8w4P5IvVcZXY728J4RfqHeRbYCE3JV0llBEPNbAYqlqk14I0YMXf0X2m_VooYP4RprwQekeiIeivZqv5nUs",
+    privateKey: "rFIpUJ7H2kut8vkGQWNvTgRdYFJdIB9X-O6uMi0oMMw",
 };
 
 const app = express();
